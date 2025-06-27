@@ -39,7 +39,17 @@ A low return rate indicates high customer satisfaction and low product issues. A
 
 4. Data Visualization Best Practices (consistent color scheme, clear labels, KPIs)
 
-## Sample Dashboards
+## 🎯 Objectives
+
+1. Analyze sales trends and top-performing products
+
+2. Understand customer return behavior
+
+3. Identify which categories contribute most to total orders
+
+4. Gain hands-on experience with Power BI tools and dashboarding
+
+## Sample Dashboard
 
 <img src="Mountain Bike Sales Dasboard.jpg" width=1000>
 

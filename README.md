@@ -3,12 +3,6 @@
 ## 📌 Project Overview:
 This Power BI dashboard provides a comprehensive analysis of Mountain Bikes sales performance. It showcases key metrics like revenue, profit margin, order volume, and return rates, along with visual breakdowns by product categories and sales trends over time.
 
-## Sample Dashboards
-
-<img src="Mountain Bike Sales Dasboard.jpg" width=1000>
-
-<img src="Orders by Country.jpg" width=1000>
-
 ## 🔍 Key Insights
 
 1. Total Revenue: $24.91M
@@ -21,4 +15,12 @@ The profit margin highlights how much of the total revenue remains after deducti
 This metric reflects the volume of customer transactions. A total of 25,000 orders shows a strong customer base and steady demand across categories, particularly in Accessories and Bikes, as seen in the category-wise order chart.
 
 4. Return Rate: 2.17%
-A low return rate indicates high customer satisfaction and low product issues. At 2.17%, this rate suggests that most buyers are happy with their purchases and that the logistics, quality control, and product descriptions are effective
+A low return rate indicates high customer satisfaction and low product issues. At 2.17%, this rate suggests that most buyers are happy with their purchases and that the logistics, quality control, and product descriptions are effective.
+
+## Sample Dashboards
+
+<img src="Mountain Bike Sales Dasboard.jpg" width=1000>
+
+<img src="Orders by Country.jpg" width=1000>
+
+

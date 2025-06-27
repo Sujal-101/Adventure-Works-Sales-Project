@@ -29,13 +29,16 @@ Power BI model uses a star schema structure with the central fact table (Sales_F
 1. Sales_Final (Fact Table) Connections: 
 The core transactional table that holds order-level data:
 
-a. Connected to Customer Lookup via CustomerKey
+Connected to Customer Lookup via CustomerKey
 ➤ Enables analysis by customer demographics like age, income, and education.
-b. Connected to Calendar Lookup via OrderDate
+
+Connected to Calendar Lookup via OrderDate
 ➤ Enables filtering and grouping by date, month, quarter, and year.
-c. Connected to Product Lookup via ProductKey
+
+Connected to Product Lookup via ProductKey
 ➤ Enables detailed insights by product attributes like name, size, color, and cost.
-d. Connected to Territory Lookup via TerritoryKey
+
+Connected to Territory Lookup via TerritoryKey
 ➤ Enables geographic breakdown by country, region, and continent.
 
 

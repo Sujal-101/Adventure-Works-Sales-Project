@@ -52,7 +52,7 @@ Product Subcategories is connected to Product Categories Lookup via ProductCateg
 
 ## 🧮 DAX Measures Used in This Project
 
-DAX calculations were used to create key performance metrics such as total revenue, profit margin, order count, return rate, and profit percentage. These measures enabled dynamic analysis across products, categories, time periods, and customer segments, enhancing the dashboard's interactivity and business insight.
+DAX calculations using functions like SUM, SUMX, DIVIDE, and DISTINCTCOUNT were used to derive key metrics such as total revenue, profit margin, order count, etc. These dynamic measures enabled interactive analysis across time, product, and customer dimensions, providing meaningful business insights through the dashboard.
 
 
 ## 📊 Dashboard Features

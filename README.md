@@ -26,19 +26,16 @@ A low return rate indicates high customer satisfaction and low product issues. A
 
 Power BI model uses a star schema structure with the central fact table (Sales_Final) connected to multiple dimension tables.
 
-1. Sales_Final (Fact Table) Connections
+1. Sales_Final (Fact Table) Connections: 
 The core transactional table that holds order-level data:
 
-Connected to Customer Lookup via CustomerKey
+a. Connected to Customer Lookup via CustomerKey
 ➤ Enables analysis by customer demographics like age, income, and education.
-
-Connected to Calendar Lookup via OrderDate
+b. Connected to Calendar Lookup via OrderDate
 ➤ Enables filtering and grouping by date, month, quarter, and year.
-
-Connected to Product Lookup via ProductKey
+c. Connected to Product Lookup via ProductKey
 ➤ Enables detailed insights by product attributes like name, size, color, and cost.
-
-Connected to Territory Lookup via TerritoryKey
+d. Connected to Territory Lookup via TerritoryKey
 ➤ Enables geographic breakdown by country, region, and continent.
 
 

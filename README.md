@@ -20,14 +20,14 @@ A low return rate indicates high customer satisfaction and low product issues. A
 ## 📊 Dashboard Features
 
 1. KPI Cards for Revenue, Profit Margin, Orders & Returns
+
 2. Year and Month Slicers for custom filtering
+
 3. Revenue Trend Line Chart showing sales performance over time
+
 4. Category-wise Order Distribution (Accessories, Bikes, Clothing)
-5. Top 10 Product Performance Table with metrics:
-Revenue,
-Orders,
-Profit Margin %,
-Return Rate %
+
+5. Top 10 Product Performance Table with metrics: Revenue, Orders, Profit Margin %, Return Rate %
 
 ## 🛠 Tools & Skills Used
 

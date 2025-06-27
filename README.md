@@ -17,6 +17,17 @@ This metric reflects the volume of customer transactions. A total of 25,000 orde
 4. Return Rate: 2.17%
 A low return rate indicates high customer satisfaction and low product issues. At 2.17%, this rate suggests that most buyers are happy with their purchases and that the logistics, quality control, and product descriptions are effective.
 
+📊 Dashboard Features
+1. KPI Cards for Revenue, Profit Margin, Orders & Returns
+2. Year and Month Slicers for custom filtering
+3. Revenue Trend Line Chart showing sales performance over time
+4. Category-wise Order Distribution (Accessories, Bikes, Clothing)
+5. Top 10 Product Performance Table with metrics:
+Revenue
+Orders
+Profit Margin %
+Return Rate %
+
 ## Sample Dashboards
 
 <img src="Mountain Bike Sales Dasboard.jpg" width=1000>

@@ -3,3 +3,6 @@
 ## 📌 Project Overview:
 This Power BI dashboard provides a comprehensive analysis of Mountain Bikes sales performance. It showcases key metrics like revenue, profit margin, order volume, and return rates, along with visual breakdowns by product categories and sales trends over time.
 
+## Sample Dashboards
+
+<img src="C:\Users\sujal patil\OneDrive\Desktop\Mountain Bike Sales Dasboard.png">

@@ -1,4 +1,4 @@
-#  🚴 Mountain Bikes Sales Dashboard - Power BI Project
+#  🚴 Mountain Bikes Sales Dashboard - Power BI Project 🚴
 
 ## 🧩 Problem Statement
 The sales team at a mountain bike company needed a centralized and interactive solution to monitor overall sales performance, identify top-selling products, analyze return rates, and understand customer segments. The goal was to transform raw sales data into actionable insights to support better business decisions and improve profitability.

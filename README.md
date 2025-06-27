@@ -29,6 +29,7 @@ A low return rate indicates high customer satisfaction and low product issues. A
 1. Revenue & Orders
 
 Total_Revenue = SUMX(Sales_Final,Sales_Final[OrderQuantity]*RELATED('Product Lookup'[ProductPrice]))
+Total_Orders = DISTINCTCOUNT(Sales_Final[OrderNumber])
 
 
 ## 📊 Dashboard Features

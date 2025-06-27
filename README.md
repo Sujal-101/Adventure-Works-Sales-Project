@@ -29,6 +29,16 @@ Orders,
 Profit Margin %,
 Return Rate %
 
+## 🛠 Tools & Skills Used
+
+1. Power BI Desktop
+
+2. DAX (for calculated measures like profit margin %, return rate, etc.)
+
+3. Power Query (data cleaning and transformation)
+
+4. Data Visualization Best Practices (consistent color scheme, clear labels, KPIs)
+
 ## Sample Dashboards
 
 <img src="Mountain Bike Sales Dasboard.jpg" width=1000>

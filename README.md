@@ -7,3 +7,4 @@ This Power BI dashboard provides a comprehensive analysis of Mountain Bikes sale
 
 <img src="Mountain Bike Sales Dasboard.jpg" width=1000>
 
+<img src="Orders by Country.jpg" width=1000>

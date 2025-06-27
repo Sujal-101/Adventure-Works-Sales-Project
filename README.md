@@ -27,7 +27,8 @@ A low return rate indicates high customer satisfaction and low product issues. A
 ## 🧮 DAX Measures Used in This Project
 
 1. Revenue & Orders
-   Total_Revenue = SUMX(Sales_Final,Sales_Final[OrderQuantity]*RELATED('Product Lookup'[ProductPrice]))
+
+Total_Revenue = SUMX(Sales_Final,Sales_Final[OrderQuantity]*RELATED('Product Lookup'[ProductPrice]))
 
 
 ## 📊 Dashboard Features

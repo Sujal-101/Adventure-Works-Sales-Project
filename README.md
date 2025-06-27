@@ -24,6 +24,8 @@ A low return rate indicates high customer satisfaction and low product issues. A
 
 <img src="Model View.jpg" width=1000>
 
+Power BI model uses a star schema structure with the central fact table (Sales_Final) connected to multiple dimension tables.
+
 ## 🧮 DAX Measures Used in This Project
 
 1. Revenue & Orders

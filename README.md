@@ -5,6 +5,5 @@ This Power BI dashboard provides a comprehensive analysis of Mountain Bikes sale
 
 ## Sample Dashboards
 
-<img src="C:\Users\sujal patil\OneDrive\Desktop\Mountain Bike Sales Dasboard.jpg" width=1000>
-<img src="https://www.smarthouse.com.au/wp-content/uploads/2024/03/image-airbnb-scaled-1.jpg" width=1000>
+<img src="Mountain Bike Sales Dasboard.jpg" width=1000>
 

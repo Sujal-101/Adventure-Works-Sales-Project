@@ -24,6 +24,10 @@ A low return rate indicates high customer satisfaction and low product issues. A
 
 <img src="Model View.jpg" width=1000>
 
+## 🧮 DAX Measures Used in This Project
+
+
+
 ## 📊 Dashboard Features
 
 1. KPI Cards for Revenue, Profit Margin, Orders & Returns

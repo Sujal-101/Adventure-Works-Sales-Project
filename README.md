@@ -26,7 +26,7 @@ A low return rate indicates high customer satisfaction and low product issues. A
 
 Power BI model uses a star schema structure with the central fact table (Sales_Final) connected to multiple dimension tables.
 
-### 1. Sales_Final (Fact Table) Connections: 
+#### 1. Sales_Final (Fact Table) Connections: 
 The core transactional table that holds order-level data
 
 Connected to Customer Lookup via CustomerKey

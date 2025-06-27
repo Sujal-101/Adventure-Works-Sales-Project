@@ -32,6 +32,24 @@ Total_Revenue = SUMX(Sales_Final,Sales_Final[OrderQuantity]*RELATED('Product Loo
 
 Total_Orders = DISTINCTCOUNT(Sales_Final[OrderNumber])
 
+2. Profit & Profit Margin
+
+Total_Cost = SUMX(Sales_Final,Sales_Final[OrderQuantity]*RELATED('Product Lookup'[ProductCost]))
+
+Profit_Margin = [Total_Revenue]-[Total_Cost]
+
+Profit_Margin_% = DIVIDE([Profit_Margin],[Total_Revenue],"No Sales")
+
+3. Quantity Metrics
+
+Total_Qty_Sold = SUM(Sales_Final[OrderQuantity])
+
+Total_Quantity_Returned = SUM('Returns Data'[ReturnQuantity])
+
+4. Return Rate
+
+Return_Rate = DIVIDE([Total_Quantity_Returned],[Total_Qty_Sold],"NO Sales")
+
 
 ## 📊 Dashboard Features
 

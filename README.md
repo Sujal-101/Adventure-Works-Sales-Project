@@ -26,6 +26,10 @@ A low return rate indicates high customer satisfaction and low product issues. A
 
 The data model follows a star schema, with a central fact table (Sales_Final) connected to dimension tables like Customer, Product, Calendar, and Territory. This structure ensures efficient data relationships, enables smooth filtering, and supports powerful analysis across multiple business dimensions.
 
+## 🧹 Data Cleaning & Transformation
+
+The raw data was cleaned and transformed using Power Query to make it analysis-ready. This included removing errors, correcting data types, and creating custom fields. New columns like full name, age, age group, income level, and parent status were added in the Customer table. The Product table was enhanced with a gender type column, and the Calendar table was enriched with useful date fields like month name, quarter, and start of week. These transformations made the data more meaningful, structured, and ready for building an insightful dashboard.
+
 ## 🧮 DAX Measures Used in This Project
 
 DAX calculations using functions like SUM, SUMX, DIVIDE, and DISTINCTCOUNT were used to derive key metrics such as total revenue, profit margin, order count, etc. These dynamic measures enabled interactive analysis across time, product, and customer dimensions, providing meaningful business insights through the dashboard.

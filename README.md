@@ -8,3 +8,17 @@ This Power BI dashboard provides a comprehensive analysis of Mountain Bikes sale
 <img src="Mountain Bike Sales Dasboard.jpg" width=1000>
 
 <img src="Orders by Country.jpg" width=1000>
+
+## 🔍 Key Insights
+
+1. Total Revenue: $24.91M
+This figure represents the overall sales generated from mountain bike products over the selected time period. A revenue of nearly $25 million indicates a healthy business with strong customer demand and successful product strategies.
+
+2. Profit Margin: $10.46M
+The profit margin highlights how much of the total revenue remains after deducting costs. With a profit of $10.46M, the business is operating efficiently and earning a solid return on sales. The average product profit margin (44.26%) shown in the product table supports this strength.
+
+3. Total Orders: 25K
+This metric reflects the volume of customer transactions. A total of 25,000 orders shows a strong customer base and steady demand across categories, particularly in Accessories and Bikes, as seen in the category-wise order chart.
+
+4. Return Rate: 2.17%
+A low return rate indicates high customer satisfaction and low product issues. At 2.17%, this rate suggests that most buyers are happy with their purchases and that the logistics, quality control, and product descriptions are effective
